@@ -1,4 +1,4 @@
-# Project: Data Analysis Using Loginom  
+# Data Analysis Using Loginom  
 
 This project demonstrates the capabilities of **Loginom**, a professional platform for data analytics, ETL, and machine learning.  
 Loginom provides a user-friendly interface for data processing, predictive modeling, and automation of analytical workflows.  
